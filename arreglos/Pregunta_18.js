@@ -1,4 +1,4 @@
-let num =[7,7,7];
+let num =[17,19,21];
 var puntaje_total =0;
 
 for (let numeros of num) {
